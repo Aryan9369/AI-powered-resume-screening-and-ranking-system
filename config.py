@@ -31,8 +31,8 @@ UPLOAD_FOLDER = 'uploads'
 
 # Ranking weights
 SKILL_MATCH_WEIGHT = 10
-EXPERIENCE_WEIGHT = 1
-ML_MODEL_WEIGHT = 5  # Weight for machine learning model score
+EXPERIENCE_WEIGHT = 0
+ML_MODEL_WEIGHT = 3  # Weight for machine learning model score
 
 # File Paths
 MODEL_PATH = os.path.join("ml_model", "model.joblib")
