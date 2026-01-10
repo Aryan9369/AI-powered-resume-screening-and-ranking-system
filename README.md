@@ -1,8 +1,14 @@
 # AI-Powered Resume Screening and Ranking System 
 A Web Application for Automated Resume Evaluation
+![Alt text](https://github.com/Aryan9369/AI-powered-resume-screening-and-ranking-system/blob/1b54653615026be43fa7ab7d512badd6dcbfac35/Screenshot%20(709).png)
+
+
+
 
 ## 🚀 Overview  
 This project is an AI-powered web application that automates the process of resume screening and ranking. It uses **Machine Learning (ML) and Natural Language Processing (NLP)** to evaluate resumes based on predefined criteria, providing a ranked list of candidates based on their suitability for a given job role.
+![Alt text](https://github.com/Aryan9369/AI-powered-resume-screening-and-ranking-system/blob/1b54653615026be43fa7ab7d512badd6dcbfac35/Screenshot%20(712).png)
+
 
 ## 🎯 Features  
 - 📄 Resume Parsing – Extracts relevant information from resumes (e.g., skills, experience, education).  
