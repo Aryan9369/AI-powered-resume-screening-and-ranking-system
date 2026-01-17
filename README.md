@@ -90,6 +90,8 @@ streamlit run app.py
 
 5. Results are displayed through an interactive dashboard
 
+
+```
 ## 📁 Project Structure
 AI-powered-resume-screening/
 │── models/ # ML and NLP scripts
@@ -99,3 +101,5 @@ AI-powered-resume-screening/
 │── app.py # Main Streamlit application
 │── requirements.txt
 │── README.md
+
+```
