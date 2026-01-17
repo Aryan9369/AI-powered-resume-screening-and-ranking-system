@@ -80,12 +80,12 @@ streamlit run app.py
 ```
 🚀 How It Works
 
-Upload resumes in PDF or DOCX format
+1. Upload resumes in PDF or DOCX format
 
-Enter job description and required skills
+2. Enter job description and required skills
 
-The system preprocesses and analyzes resumes
+3. The system preprocesses and analyzes resumes
 
-Resumes are scored and ranked automatically
+4. Resumes are scored and ranked automatically
 
-Results are displayed through an interactive dashboard
+5. Results are displayed through an interactive dashboard
