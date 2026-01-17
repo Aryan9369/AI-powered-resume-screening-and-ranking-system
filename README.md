@@ -1,7 +1,3 @@
-# AI-Powered Resume Screening and Ranking System 
-A Web Application for Automated Resume Evaluation
-![Alt text](https://github.com/Aryan9369/AI-powered-resume-screening-and-ranking-system/blob/1b54653615026be43fa7ab7d512badd6dcbfac35/Screenshot%20(709).png)
-
 # AI-Powered Resume Screening & Ranking System
 A Web Application for Automated Resume Evaluation
 
@@ -67,6 +63,7 @@ pip install -r requirements.txt
 
 # Run the application
 streamlit run app.py
+```bash
 
 🚀 How It Works
 
