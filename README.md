@@ -75,3 +75,16 @@ pip install -r requirements.txt
 
 # Run the application
 streamlit run app.py
+
+
+🚀 How It Works
+
+Upload resumes in PDF or DOCX format
+
+Enter job description and required skills
+
+The system preprocesses and analyzes resumes
+
+Resumes are scored and ranked automatically
+
+Results are displayed through an interactive dashboard
