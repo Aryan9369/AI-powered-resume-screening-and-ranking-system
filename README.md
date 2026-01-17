@@ -100,3 +100,37 @@ AI-powered-resume-screening/
 │── README.md
 
 ```
+🤖 AI / NLP Approach
+
+Text preprocessing and cleaning
+
+Feature extraction using TF-IDF
+
+Similarity scoring between resumes and job description
+
+Ranking based on relevance scores
+
+Note: This project focuses on foundational NLP and backend integration rather than advanced deep-learning models. It was built as a learning-oriented project.
+
+🎯 Future Enhancements
+
+Integration of transformer-based models (BERT / LLMs)
+
+Improved semantic skill matching
+
+Cloud deployment with scalable backend APIs
+
+Role-based dashboards for HR users
+
+📜 License
+
+This project is licensed under the MIT License.
+
+👤 Author
+
+Aryan Katiyar
+📧 Email: aryankatiyarjnv@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/aryan-katiyar-225893214
+
+💻 GitHub: https://github.com/Aryan9369
