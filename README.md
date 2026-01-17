@@ -89,3 +89,14 @@ streamlit run app.py
 4. Resumes are scored and ranked automatically
 
 5. Results are displayed through an interactive dashboard
+
+📁 Project Structure
+AI-powered-resume-screening/
+│── models/          # ML and NLP scripts
+│── data/            # Sample resumes / datasets
+│── templates/       # Backend templates (Flask/Django)
+│── static/          # Static assets (if applicable)
+│── app.py           # Main Streamlit application
+│── requirements.txt
+│── README.md
+
